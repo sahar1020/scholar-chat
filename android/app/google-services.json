@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "945059005131",
+    "project_id": "flutter-apps-bebca",
+    "storage_bucket": "flutter-apps-bebca.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:945059005131:android:9f144563b17a103262114e",
+        "android_client_info": {
+          "package_name": "com.example.scholar_chat_setup"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCwtm6aYMbL5_3otItDxfV8FWDcykP7SGU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
